@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate de calabaza",
+        "type": "calabaza",
+        "description": "Mate de calabaza",
+        "img": "/mate-img/calabaza.jpg"
+    },
+    {
+        "id": 2,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate imperial",
+        "type": "imperial",
+        "description": "Mate imperial",
+        "img": "/mate-img/imperial.jpg"
+    },
+    {
+        "id": 3,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate de madera",
+        "type": "madera",
+        "description": "Mate de madera",
+        "img": "/mate-img/madera.jpg"
+    },
+    {
+        "id": 4,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate de ceramica",
+        "type": "ceramica",
+        "description": "Mate de ceramica",
+        "img": "/mate-img/ceramica.jpg"
+    },
+    {
+        "id": 5,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate de vidrio",
+        "type": "vidrio",
+        "description": "Mate de vidrio",
+        "img": "/mate-img/vidrio.jpg"
+    },
+    {
+        "id": 6,
+        "owner_id": "kate_supporter.testnet",
+        "name": "Mate de plastico",
+        "type": "plastico",
+        "description": "Mate de plastico",
+        "img": "/mate-img/plastico.jpg"
+    }
+]

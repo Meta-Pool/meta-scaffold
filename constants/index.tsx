@@ -1,0 +1,4 @@
+export const REFETCH_INTERVAL = 5000;
+export const WALLET_CONNECT_PROJECT_ID =
+  process.env.NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID ||
+  "3ec2226fd3f38b6fb82e789fcfc232bf";
