@@ -19,8 +19,9 @@ import Fonts from "../components/Fonts";
 import { WalletSelectorContextProvider } from "../contexts/WalletSelectorContext";
 
 const isProduction = process.env.NEXT_PUBLIC_VERCEL_ENV == 'production';
+const queryClient = new QueryClient();
 function App({ Component, pageProps }: AppProps) {
-  const queryClient = new QueryClient();
+ 
   const router = useRouter();
 
   useEffect(() => {
